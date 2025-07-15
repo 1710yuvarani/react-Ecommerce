@@ -5,7 +5,7 @@ import About from './pages/About'
 import Product from './pages/Product'
 import Contact from './pages/Contact'
 import Navbar from './Component/Navbar'
-import Footer from './Component/footer'
+import Footer from './Component/Footer'
 
 
 function App() {
